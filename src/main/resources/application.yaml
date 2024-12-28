@@ -1,0 +1,4 @@
+configsets:
+  location: "/configs"
+zk:
+  address: "localhost:2181"
